@@ -21,3 +21,4 @@ function makeInt.parseInt(n){
 }
 function preserveDecimal.parseFloat(n){
   return n
+}
